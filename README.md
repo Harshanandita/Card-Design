@@ -4,7 +4,7 @@ This project demonstrates how to create and style a visually appealing card usin
 
 ## Preview
 
-![Card Design Preview](./lake.jpg)
+![Card Design Preview](./Card.png)
 
 ## Features
 
@@ -36,6 +36,7 @@ This project demonstrates how to create and style a visually appealing card usin
 
    ```bash
    |-- index.html       # Main HTML file
+   |-- style.css        # CSS for styling the card
    |-- README.md        # Project description
    ```
 
@@ -48,4 +49,4 @@ This project demonstrates how to create and style a visually appealing card usin
 
 ## License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
