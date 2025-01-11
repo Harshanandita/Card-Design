@@ -4,7 +4,7 @@ This project demonstrates how to create and style a visually appealing card usin
 
 ## Preview
 
-![Card Design Preview](https://via.placeholder.com/800x400?text=Card+Preview)
+![Card Design Preview](./lake.jpg)
 
 ## Features
 
@@ -22,17 +22,30 @@ This project demonstrates how to create and style a visually appealing card usin
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git 
+   git clone https://github.com/Harshanandita/Card-Design.git 
+   ```
 
 2. Navigate to the project directory:
    ```bash
-   cd your-repo-name
+   cd "Card-Design"
+   ```
 
 3. Open the `index.html` file in your browser to view the card. 
 
 ## File Structure
+
    ```bash
    |-- index.html       # Main HTML file
    |-- README.md        # Project description
+   ```
 
+## Customization
 
+- Modify the `style.css` file to:
+  - Change the background color, font styles, or dimensions of the card.
+  - Add animations or hover effects.
+- Update the `index.html` file to include additional content or elements.
+
+## License
+
+This project is open-source and available under the [MIT License](LICENSE).
