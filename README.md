@@ -23,3 +23,16 @@ This project demonstrates how to create and style a visually appealing card usin
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/your-repo-name.git 
+
+2. Navigate to the project directory:
+   ```bash
+   cd your-repo-name
+
+3. Open the `index.html` file in your browser to view the card. 
+
+## File Structure
+   ```bash
+   |-- index.html       # Main HTML file
+   |-- README.md        # Project description
+
+
