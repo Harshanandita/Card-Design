@@ -4,7 +4,7 @@ This project demonstrates how to create and style a visually appealing card usin
 
 ## Preview
 
-![Card Design Preview](./Card.png)
+![Card Design Preview](assets/Card.png)
 
 ## Features
 
